@@ -1,7 +1,5 @@
 # Riddle Me
 
-- Live working url - [RiddleMe] https://infiniteamit.pythonanywhere.com/
-
 ## Overview
 
 Riddle Me is a python-based-game designed to solve fun little riddles, when you are feeling bored. Riddle Me provides both "command-line interface (cli)" and a "web based GUI" to play the game.
